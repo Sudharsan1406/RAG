@@ -162,7 +162,6 @@ Hybrid search provides:
 
 ## 📈 Possible Enhancements
 
-- Multi-PDF support
 - Source sentence highlighting
 - Clear chat button
 - Token/cost monitoring
